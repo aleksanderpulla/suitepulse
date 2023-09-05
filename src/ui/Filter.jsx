@@ -6,9 +6,17 @@ const StyledFilter = styled.div`
   background-color: var(--color-grey-0);
   box-shadow: var(--shadow-sm);
   border-radius: var(--border-radius-sm);
-  padding: 0.4rem;
+  padding: 0.8rem;
   display: flex;
+  justify-content: center; 
+  align-items: center;
   gap: 0.4rem;
+
+  @media (max-width: 768px) {
+    padding: 0.5rem;
+    gap: 0.8rem;
+    margin-left: 2%;
+  }
 `;
 
 const FilterButton = styled.button`
