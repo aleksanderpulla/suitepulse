@@ -15,6 +15,7 @@ const LoginLayout = styled.main`
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
     padding: 2rem;
+    height: fit-content;
   }
 `;
 
