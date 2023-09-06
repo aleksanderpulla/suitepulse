@@ -2,7 +2,7 @@
 
 "SuitePulse" is a fictional small boutique hotel with 8 luxurious wooden cabins.
 Stakeholders need a custom-built application to manage everything about the hotel: bookings, cabins, and guests.
-This SaaS solution powered by ReactJS library and its ecosystem consists of of an internal application used inside the hotel to check in guests as they arrive.
+This SaaS solution powered by ReactJS library and its ecosystem consists of an internal application used inside the hotel to check in guests as they arrive.
 
 ### Project's requirements
 
