@@ -30,12 +30,21 @@ This SaaS solution powered by ReactJS library and its ecosystem consists of of a
 ### Technology
 
 - **Routing**
+  - React Router: Management of client-side routing and navigation within SPAs (single-page applications).
 - **Remote State Management**
+  - React Query: React's library that simplifies the process of data fetching, caching, and state management of the application.
 - **UI State Management**
+  - Context API: Core feature of React for sharing the state across the component tree, without having to pass props manually through each level of components (hence avoiding "prop drilling" phenomenon).
 - **Form Management**
-- **Database**
+  - React Hook Form: React's library for efficiently maanging form validation, submission, and error handling.
+- **Database, Authentication & Storage**
+  - Supabase: Open-source Firebase alternative BaaS (backend-as-a-service) for building and managing server-side components.
 - **Styling**
+  - Styled Components: Popular library for writing CSS styles inside JavaScript (through "styled" component).
 - **Other**
+  - React Icons: Popular library for including vector icons in React applications.
+  - React Hot Toast: Open-source library for creating toast notifications (non-intrusive pop-up messages that provide feedback, alerts, or information to users without disrupting their workflow).
+  - Recharts: Popular open-source library that simplifies the process of creating interactive and visually appealing charts and graphs.
 
 #### Getting started
 
